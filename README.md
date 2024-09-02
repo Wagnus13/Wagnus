@@ -6,7 +6,7 @@
 
 #
 
-<p align="center"> Estudante de Engenharia de Computação na PUC Minas, e também fluente em inglês pela Fisk, nível B2-C1 em gramática. Além de aprimorar contantemente minha grámatica em inglês, sempre busco atualizar meus conhecimentos e aprender mais sobre tecnologia, design e programação em geral.
+<p align="center"> Estudante de Engenharia de Computação na PUC Minas, e também fluente em inglês, porém gramaticalmente falando, graduado com nível B2 (MET) pela Fisk. Além de aprimorar contantemente minha grámatica em inglês, sempre busco aprender mais e atualizar meus conhecimentos sobre tecnologia, design e programação em geral.
 
 #
 
